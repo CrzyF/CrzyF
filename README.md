@@ -13,20 +13,6 @@ I am a dedicated software engineer with expertise in building high-performance w
 * 🧠  I'm learning Artificial Intelligence (Computer Vision)  
 * 🤝  I'm open to collaborating on impactful and exciting projects  
 
-<p align="left">
-<a href="https://www.twitter.com/YourTwitterHandle" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/YourTwitterHandle?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-<a href="https://www.github.com/CrzyF" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/CrzyF?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-</p>
-
-<p>
-    <a href="https://wakatime.com/@YourWakaTimeID" target="_blank" rel="noreferrer"><img
-src="https://wakatime.com/badge/user/YourWakaTimeID.svg"/></a>
-  <a><img src="https://komarev.com/ghpvc/?username=CrzyF&label=Profile%20views&color=0e75b6&style=flat" alt="CrzyF" /></a>
-</p>
-
 ### Skills
 
 <p align="left">

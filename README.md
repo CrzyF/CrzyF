@@ -17,14 +17,14 @@ I am a dedicated software engineer with expertise in building high-performance w
 <a href="https://www.twitter.com/YourTwitterHandle" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/YourTwitterHandle?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-<a href="https://www.github.com/YourGitHubUsername" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/YourGitHubUsername?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/CrzyF" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/CrzyF?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </p>
 
 <p>
     <a href="https://wakatime.com/@YourWakaTimeID" target="_blank" rel="noreferrer"><img
 src="https://wakatime.com/badge/user/YourWakaTimeID.svg"/></a>
-  <a><img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat" alt="YourGitHubUsername" /></a>
+  <a><img src="https://komarev.com/ghpvc/?username=CrzyF&label=Profile%20views&color=0e75b6&style=flat" alt="CrzyF" /></a>
 </p>
 
 ### Skills
@@ -32,34 +32,37 @@ src="https://wakatime.com/badge/user/YourWakaTimeID.svg"/></a>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://react.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="ReactNative" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html-colored.svg" width="36" height="36" alt="HTML" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css-colored.svg" width="36" height="36" alt="CSS" /></a>
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 ### Socials
 
 <p align="left"> 
-<a href="https://www.github.com/YourGitHubUsername" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/CrzyF" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/faiz-fawel-0235141a3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
 ### Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/YourGitHubUsername)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CrzyF&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/CrzyF)
 
 ### Stats
 
-<a href="http://www.github.com/YourGitHubUsername"><img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="YourGitHubUsername's GitHub stats" /></a>
+<a href="http://www.github.com/CrzyF"><img src="https://github-readme-stats.vercel.app/api?username=CrzyF&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CrzyF's GitHub stats" /></a>
 
-<a href="http://www.github.com/YourGitHubUsername"><img src="https://streak-stats.demolab.com?user=YourGitHubUsername&theme=python-dark&hide_border=true" alt="GitHub Streak" /></a>
+<a href="http://www.github.com/CrzyF"><img src="https://streak-stats.demolab.com?user=CrzyF&theme=python-dark&hide_border=true" alt="GitHub Streak" /></a>
 
-<a href="https://github.com/YourGitHubUsername" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/CrzyF" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrzyF&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/YourGitHubUsername"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/CrzyF"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
